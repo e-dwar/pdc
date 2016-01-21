@@ -1,0 +1,2 @@
+
+int isISBNValid (char * isbn);
